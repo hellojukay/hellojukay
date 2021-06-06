@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on DevOps
-- 🌱 I’m currently using kubernetes
+- 🌱 I’m currently using Perl5
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hellojukay&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
